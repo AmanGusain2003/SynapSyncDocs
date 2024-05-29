@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d2b691a1b4d6ac1",
+        "id": "ae2a4c7bca97b695",
         "type": "tabs",
         "children": [
           {
-            "id": "a40f1f292503edb2",
+            "id": "a5ac96a049663e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -146,9 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a40f1f292503edb2",
+  "active": "a5ac96a049663e8b",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Readme.md"
+    "Description/Project Overview.md",
+    "Readme.md",
+    "Description/Development and Launch Plan.md",
+    "Description/Key Features.md",
+    "Description",
+    "Description/User Stories.md",
+    "Description/Technical Requirements.md",
+    "Description/Similar Apps for Reference.md",
+    "Description/Problem Statement.md",
+    "Description/Target Users.md",
+    "Description/Unique Concepts.md",
+    "Welcome.md"
   ]
 }

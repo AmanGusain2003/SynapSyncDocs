@@ -1,0 +1,2 @@
+## Project Overview
+JourneyTracker is a Progressive Web App (PWA) designed to help users achieve their goals using psychological strategies and the concept of journeys. The app aims to provide users with a clear visualization of their progress, breaking down goals into smaller, manageable sub-goals, and employing various techniques to keep users motivated and engaged.
